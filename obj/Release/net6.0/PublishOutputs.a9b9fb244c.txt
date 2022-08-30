@@ -1,0 +1,7 @@
+C:\Users\omccl\OneDrive\Desktop\c#\CJCO\CJCO\obj\Release\net6.0\PubTmp\Out\CJCO.exe
+C:\Users\omccl\OneDrive\Desktop\c#\CJCO\CJCO\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\omccl\OneDrive\Desktop\c#\CJCO\CJCO\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\omccl\OneDrive\Desktop\c#\CJCO\CJCO\obj\Release\net6.0\PubTmp\Out\CJCO.dll
+C:\Users\omccl\OneDrive\Desktop\c#\CJCO\CJCO\obj\Release\net6.0\PubTmp\Out\CJCO.deps.json
+C:\Users\omccl\OneDrive\Desktop\c#\CJCO\CJCO\obj\Release\net6.0\PubTmp\Out\CJCO.runtimeconfig.json
+C:\Users\omccl\OneDrive\Desktop\c#\CJCO\CJCO\obj\Release\net6.0\PubTmp\Out\CJCO.pdb
